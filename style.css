@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #a1e1c7;
+}
+.mainDiv{
+  box-shadow: 0px 0px 58px 0px rgba(28,28,28,0.56);
+  padding: 30px;
+  background-color: aquamarine;
+  width: 50%;
+  margin: auto;
+  margin-top: 150px;
+}
+h1{
+  font-size: 30px;
+  margin: 20px 0 20px;
+}
+p{
+  font-family: sans-serif;
+  font-size:15px;
+  margin: 10px 0;
+}
+.ComputeBtn{
+  margin: 10px 0;
+  background-color: lightgreen;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-align: center;
+  width: 100%;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}
+input{
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
